@@ -1,0 +1,12 @@
+E:\Proyectos C#\Lab05\Lab05\bin\Debug\Lab05.exe.config
+E:\Proyectos C#\Lab05\Lab05\bin\Debug\Lab05.exe
+E:\Proyectos C#\Lab05\Lab05\bin\Debug\Lab05.pdb
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.ManPerson.resources
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.Cache
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.exe
+E:\Proyectos C#\Lab05\Lab05\obj\Debug\Lab05.pdb
+E:\Proyectos C#\Lab06\Lab05\bin\Debug\Lab05.exe.config
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.exe
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.pdb

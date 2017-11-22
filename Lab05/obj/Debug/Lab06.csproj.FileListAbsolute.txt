@@ -1,0 +1,21 @@
+E:\Proyectos C#\Lab06\Lab05\bin\Debug\Lab05.exe.config
+E:\Proyectos C#\Lab06\Lab05\bin\Debug\Lab05.exe
+E:\Proyectos C#\Lab06\Lab05\bin\Debug\Lab05.pdb
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.ManPerson.resources
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab06.csproj.GenerateResource.Cache
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.exe
+E:\Proyectos C#\Lab06\Lab05\obj\Debug\Lab05.pdb
+C:\Users\Syn\Desktop\mollo labs\6\Lab06\Lab05\bin\Debug\Lab05.exe.config
+C:\Users\Syn\Desktop\mollo labs\6\Lab06\Lab05\obj\Debug\Lab05.exe
+C:\Users\Syn\Desktop\mollo labs\6\Lab06\Lab05\obj\Debug\Lab05.pdb
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\bin\Debug\Lab05.exe.config
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab05.exe
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab05.pdb
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\bin\Debug\Lab05.exe
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\bin\Debug\Lab05.pdb
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab06.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab05.ManPerson.resources
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+\\Mac\Home\Documents\ReposGit\Lab06_DAEA\Lab05\obj\Debug\Lab06.csproj.GenerateResource.Cache
